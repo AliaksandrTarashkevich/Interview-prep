@@ -1,4 +1,4 @@
-//================== LET
+//?================== LET
 // let a = 'Variable a'
 // let b = 'Variable b'
 
@@ -10,7 +10,7 @@
 //   console.log('Scope B ', b)
 // }
 
-//================= CONST
+//?================= CONST
 const PORT = 8080
 // PORT = 2000 //!err
 const array = ['JavaScript', 'is', 'awesome']

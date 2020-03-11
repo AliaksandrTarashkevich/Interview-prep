@@ -11,14 +11,14 @@
 // const num = 3 // returns err
 
 //===============================
-//FUNCTION EXPRESSION FUNCTION DECLARATION
+//?FUNCTION EXPRESSION FUNCTION DECLARATION
 // console.log(square(25))
 
 
 // function square(num) {
 //   return num ** 2
-// } // function declaration, returns 625
+// } //! function declaration, returns 625
 
 // const square = num => {
 //   return num ** 25
-// } // function expression, returns err, before initialization
+// } //! function expression, returns err, before initialization
